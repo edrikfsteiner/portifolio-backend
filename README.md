@@ -1,2 +1,4 @@
 # **Repositório Backend**
-Aluno: Edrik Fontana Steiner
+Edrik Fontana Steiner
+Disciplina de Backend
+Portifólio de Atividades
